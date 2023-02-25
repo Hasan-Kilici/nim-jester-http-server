@@ -1,5 +1,5 @@
 # nim-jester-http-server
-<code>
+<pre>
 nimble install nimble
 nimble install jester
-</code>
+</pre>
